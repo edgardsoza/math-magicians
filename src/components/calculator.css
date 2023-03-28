@@ -1,7 +1,15 @@
+.bodyhtml {
+  height: 100vh;
+  border: 2px solid green;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .main {
   border: 2px solid black;
-  width: 200%;
-  height: 150%;
+  width: 25%;
   display: flex;
   flex-direction: column;
 }
@@ -9,7 +17,8 @@
 .answer {
   background-color: gray;
   text-align: end;
-  padding-right: 0.5rem;
+  color: white;
+  padding: 0.5rem;
 }
 
 .firstbox,
@@ -37,6 +46,6 @@
 
 .button1-4,
 .button5-4 {
-  background-color: rgb(179, 19, 179);
+  background-color: rgb(228, 133, 26);
   border: 0.1px solid #fff;
 }
