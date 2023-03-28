@@ -16,8 +16,7 @@
 .secondbox,
 .thirdbox,
 .fourthbox,
-.fifthbox
- {
+.fifthbox {
   display: flex;
   flex-direction: row;
 }
@@ -27,8 +26,7 @@
 .button1-3,
 .button1-4,
 .button5-2,
-.button5-4
- {
+.button5-4 {
   width: 25%;
   padding: 0.5rem;
 }
