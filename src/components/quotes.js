@@ -29,7 +29,6 @@ function Quotes() {
   if (hasError) return <div>Something went wrong!</div>
 
   if (isLoading) return <div>Loading...</div>
-console.log(data.map)
   return (
     <div className="main-container">
     <ul className="quoteitem">
