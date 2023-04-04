@@ -28,6 +28,9 @@ class Calculator extends React.Component {
     const {total, next, operation} = this.state;
     return (
     <div className="bodyhtml">
+    <div className="titlecalculator">
+        <h1 className="titlecalc">Let´s do Some Math!</h1>
+    </div>
     <div className="main">
         <div className="answer" onChange={this.displaycalculator}>
         {total}
