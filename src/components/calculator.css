@@ -1,15 +1,20 @@
 .bodyhtml {
-  height: 100vh;
+  height: 50vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-direction: row;
+  padding-top: 3.5rem;
+  align-items: start;
   justify-content: space-around;
-  width: 50%;
+  width: 100%;
+}
+
+.titlecalc {
+  font-size: 1.5rem;
 }
 
 .main {
   border: 2px solid black;
-  width: 50%;
+  width: 40%;
   display: flex;
   flex-direction: column;
 }
