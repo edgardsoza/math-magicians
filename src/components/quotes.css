@@ -1,4 +1,12 @@
 .quoteitem {
-  width: 30%;
+  width: 80%;
   list-style-type: none;
+  text-align: center;
+  margin: 1.5rem;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

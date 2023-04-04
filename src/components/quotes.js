@@ -31,12 +31,16 @@ function Quotes() {
   if (isLoading) return <div>Loading...</div>
 console.log(data.map)
   return (
+    <div className="main-container">
     <ul className="quoteitem">
     {data.map((item) => (
+      <strong key={10000}>
       <li key={item.quote}>{item.quote}<br></br><br></br>Author: {item.author}
       <br></br><br></br>Category: {item.category}</li>
+      </strong>
     ))}
     </ul>
+    </div>
   )
 }
 
