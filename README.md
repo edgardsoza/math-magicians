@@ -103,6 +103,12 @@ npm run build
 - Twitter: [@soza_edgard](https://twitter.com/soza_edgard)
 - LinkedIn: [Edgard Soza Sobalvarro](https://www.linkedin.com/in/edgard-soza-sobalvarro/)
 
+👤 **Muhammad Davlatov**
+
+- GitHub: [Muhammad0602](https://github.com/Muhammad0602)
+- Twitter: [Muhammad Davlatov](https://twitter.com/MuhammadDavla20)
+- LinkedIn: [Muhammad Davlatov](https://www.linkedin.com/in/muhammad-davlatov-6a8536254/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
