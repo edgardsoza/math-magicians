@@ -1,5 +1,4 @@
 import calculate from './calculate';
-import isNumber from './calculate';
 
 describe ('testing calculate functions', () => {
 it ('testing calculate', () => {
