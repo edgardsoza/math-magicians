@@ -69,27 +69,26 @@ First, make sure you have Node.js installed on your machine. Installation of Git
 
 ### Setup
 
+git clone https://github.com/edgardsoza/math-magicians.git
+cd math-magicians
+
 Clone this repository to your desired folder: https://github.com/edgardsoza/math-magicians.
 
 ### Install
 
-Install this project with:
-
-Clone this repository to your desired folder: https://github.com/edgardsoza/math-magicians.
-
-Also, make sure you have Node.js installed.
+npm install
 
 ### Usage
 
 To run the project, execute the following command:
 
-Open the project by launching the Live Server plugging in visual studio code.
+npm start
 
 ### Deployment
 
 You can deploy this project using:
 
-github.io.com
+npm run build
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,6 +102,12 @@ github.io.com
 - GitHub: [@Edgard Soza](https://github.com/edgardsoza)
 - Twitter: [@soza_edgard](https://twitter.com/soza_edgard)
 - LinkedIn: [Edgard Soza Sobalvarro](https://www.linkedin.com/in/edgard-soza-sobalvarro/)
+
+👤 **Muhammad Davlatov**
+
+- GitHub: [Muhammad0602](https://github.com/Muhammad0602)
+- Twitter: [Muhammad Davlatov](https://twitter.com/MuhammadDavla20)
+- LinkedIn: [Muhammad Davlatov](https://www.linkedin.com/in/muhammad-davlatov-6a8536254/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,7 +151,5 @@ I would like to thank Microverse for this great opportunity.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

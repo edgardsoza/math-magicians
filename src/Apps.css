@@ -1,0 +1,19 @@
+.headertitle {
+  font-size: 3rem;
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 2rem;
+  align-items: center;
+}
+
+.navbar {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  gap: 0.4rem;
+  font-size: 1.5rem;
+}
